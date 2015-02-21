@@ -82,3 +82,30 @@ Mitglied kann auch eine Personengemeinschaft sein.
 
 Die Beitrittserklarung gilt als angenommen, wenn sie nicht innerhalb eines Monats durch den Vorstand schriftlich abgelehnt worden ist.
 
+§ 5 Ehrenmitgliedschaft
+
+Für außergewöhnliche Verdienste um den Verein kann der Vorstand die Ehrenmitgliedschaft verleihen. Er muss dabei einen strengen Maßstab anlegen. Der Beschluss muss mit mindestens einer Zweidrittelmehrheit gefasst werden. Er ist der Delegiertenversammlung mitzuteilen. Die Ehrenmitgliedschaft ist beitragsfrei.
+
+§ 6 Rechteder Mitglieder
+
+Die Mitglieder sind berechtigt, die Einrichtungen des Vereins im Rahmen der Gemeinverträglichkleit und der Betriebsordnungen zu benutzen. Sie wirken bei der Bildung der Vereinsorgane mit. Sie besitzen nach Vollendung des 18. Lebensjahres - in Jugendangelegenheiten des 14. Lebensjahres - das aktive und passive Wahlrecht, das Stimm- und Vorschlagsrecht.
+
+§ 7 Pflichtender Mitglieder
+
+Die Mitglieder sind an die Satzung und Beschlüsse der Organe des Vereins
+und seiner Abteilungen gebunden. Sie sind verpflichtet, den festgesetzten
+Beitrag zu zahlen.
+
+§ 8 Beitrag
+
+Den Beitrag für erwachsene Mitglieder setzt die Delegiertenversammlung fest. Der Vorstand ist jedoch ermächtigt, die Beiträge in Anlehnung an das Rentenanpassungsgesetz zu ändern.  
+Aufnahmegelder, Beiträge für Kinder und Jugendliche, Sonderbeiträge für einzelne Abteilungen, Kostenanteile fOr besonderen Verwaltungsaufwand wie
+Rechnungserteilung und Mahngelder setzt der Vorstand fest. § 24 Absatz 1
+Satz 2 ist zu beachten. Sonderbeiträge sind Bestandtei des Vereinsbeitrages; § 10 Absatz 1 gilt entsprechend.
+Die Beitrage werden halb- oder vierteljährlich abgebucht oder berechnet, dürfen jedoch vierteljährlich jeweils zu Beginn des zweiten Monats eines
+Kalendervierteljahres gezahlt werden. Rückstände können nach Mahnung auf
+Kosten des Mitglieds durch Postauftrag oder im Rechtswege eingezogen wer-
+den.
+
+Beiträge von Personengemeinschaften werden wie Sonderbeiträge behandelt.
+
