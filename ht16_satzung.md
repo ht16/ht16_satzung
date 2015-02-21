@@ -109,3 +109,22 @@ den.
 
 Beiträge von Personengemeinschaften werden wie Sonderbeiträge behandelt.
 
+§ 9 Haftung des Vereins
+
+Der Verein haftet seinen Mitgliedern tor Schaden aller Art in seinem
+Wirkungsbereich auch bei grober Fahrlässigkeit seiner Beauftragten nur, soweit er durch seine Sportunfall- und Haftpflichtversicherung durch den Hamburger Sportbund gedeckt ist.
+
+Das Baden auf dem Freizeitgelände des Vereins geschieht auf eigene Gefahr.
+
+Der Verein haftet nicht für Sachen, die in den von ihm benutzten Anlagen abhanden kommen oder beschädigt werden. Der Vorstand darf über zurückgelassene Sachen verfügen, wenn sie nicht binnen drei Monaten abgeholt werden.
+
+§ 10 Kündigung der Mitgliedschaft
+
+Eine Kündigung der Mitgliedschaft kann nur schriftlich mit einer Frist von 6 Wochen jeweils zum Quartalsende erklärt werden. Hiervon kann der Vorstand Ausnahmen zulassen.
+
+Eine Kündigung durch den Verein ist bei vereinsschadigendem Verhalten des
+Mitglieds zulassig. Gegen eine solche Kündigung kann das Mitglied binnen eines Monats nach Zugang der Kündigung das Schiedsgericht (§ 29) anrufen.
+Datüber hinaus kann der Verein die Mitgliedschaft bei Beitragstückständen von mehr als drei Monaten jederzeit ohne Einhaltung einer Frist kündigen. Hiergegen ist eine Anrufung des Schiedsgericht ausgeschlossen.
+
+Der Verlust der Mitgliedschaft hat auch den Verlust sämtlicher Ämter zur Folge.
+
