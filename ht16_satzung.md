@@ -193,3 +193,10 @@ Die Delegiertenversammlung wählt die Mitglieder des Vorstandes gemäß § 22
 Absatz 1, drei Mitglieder des Wahlausschusses gemäß § 27 Absatz 1, die
 Rechnungsprüfer gemäß § 28 Absatz 1 und die Obleute des Schiedsgerichts
 gemäß § 29 Absatz 1.
+
+§ 14 Ordentliche Delegiertenversammlung
+
+Die Delegiertenveraammlung tritt jährlich im ersten Halbjahr zusammen, jedoch nicht vor dem vierten Monat. Der Vorstand beruft die
+Delegiertenversammlung mindestens 14 Tage vor dem Termin ein durch
+schriftliche Mitteilung der Tagesordnung an die Delegierten und durch
+Aushang in der Geschäftsstelle.
