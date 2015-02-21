@@ -128,3 +128,68 @@ Datüber hinaus kann der Verein die Mitgliedschaft bei Beitragstückständen von
 
 Der Verlust der Mitgliedschaft hat auch den Verlust sämtlicher Ämter zur Folge.
 
+---
+
+Zweiter Teil :
+
+### ORGANISATION DES VEREINS
+
+§ 11 Gliederung und Verfahren
+
+Der Verein wird durch die Mitgliederversammlung, die Delegiertenversammlung, den Vereinsrat und den Vorstand geleitet. Diese und alle weiteren in dieser Satzung festgelegten Organe können sich ergänzende Geschäftsordnungen geben. Sie haben Protokolle ihrer Verhandlungen, Wahlen und Beschlüsse zu führen und dem Vorstand zuzuleiten.
+
+§ 12 Die Mitgliederversammlung
+
+Alle stimmberechtigten Mitglieder des Vereins bilden die Mitgliederversammlung.
+
+Die Mitgliederversammlung beschließt über
+
+- die Änderung des Vereinszwecks  
+- die Auflösung des Vereins.  
+
+Die Mitgliederversammlung beschließt weiterhin über die von der
+Delegiertenversammlung überwiesenen Anträge, die in der
+Delegiertenversammlung auch im zweiten Durchgang nicht entschieden wurden.
+
+Die Mitgliederversammlung wird auf Antrag von mindestens 500 stimmberechtigten Mitgliedern oder 50 Mitgliedern der Delegiertenversammlung vom Vorstand einberufen.
+
+Die Mitgliederversammlung muss in diesen Fällen binnen 3 Monaten durchgeführt sein.
+
+§ 13 Die Delegiertenversammlung
+
+Die Delegiertenversammlung besteht aus
+
+- den Delegierten der Abteilungen  
+- den Delegierten der Personengemeinschaften  
+- dem Vorstand  
+- den Abteilungsleitern  
+- den Vorsitzenden der Personengemeinschaften  
+- den Rechnungsprüfern  
+- den Ehrenvorsitzenden
+- den Ehrenmitgliedern
+
+Die Abteilungen wählen ihre Delegierten fOür die Dauer von drei Jahren.
+Wiederwahl ist zulässig. Näheres bestimmt die Wahlordnung.
+
+Für je angefangene 100 Mitglieder einer Abteilung oder angefangene 500
+Mitglieder einer Personengemeinschaft ist ein Delegierter zu wählen.
+Zusätzlich werden ein Drittel Ersatzdelegierte oder mehr, mindestens jedoch ein Ersatzdelegierter gewählt, deren Rangfolge sich nach der Anzahl der abgegebenen Stimmen richtet.
+
+Je Abteilung können höchstens 20 Delegierte gewählt werden.
+
+Jeder Delegierte kann nur einmal gemäß Abs. 1 Delegierteneigenschaften erwerben. Wird ein Delegierter einer AbteUung oder einer
+Personengemeinschaft in ein Amt gemäß Abs. 1 gewählt, rückt für ihn in der Abteilung der Ersatzdelegierte nach.
+
+Delegierte der Abteilungen und der Personengemer.schaften können einen
+Ersatzdelegierten ihrer Abteilung oder Personengemeinschaft zur Vertretung bevollmächtigen.
+
+Die Delegierlenversammlung erörtert den Jahresbericht des Vorstandes und
+der Rechnungsprüfer. Sie beschließt über die Entlastung des Vorstandes.
+
+Die Delegierlenveraammlung erörtert die wesentlichen Zielsetzungen des
+Vorstandes. Sie beschließt über vorliegende Anträge.
+
+Die Delegiertenversammlung wählt die Mitglieder des Vorstandes gemäß § 22
+Absatz 1, drei Mitglieder des Wahlausschusses gemäß § 27 Absatz 1, die
+Rechnungsprüfer gemäß § 28 Absatz 1 und die Obleute des Schiedsgerichts
+gemäß § 29 Absatz 1.
