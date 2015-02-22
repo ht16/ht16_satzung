@@ -315,10 +315,61 @@ Der Wahlausschuss benennt aus seiner Mitte drei Mitglieder zur Beaufsichtigung d
 Die Delegiertenversammlung wählt jähriich einen Rechnungsprüfer auf drei
 Jahre, wobei dieser im dritten Jahr als Ersatzmann fungiert. Rechnungsprüfer
 dürfen nicht dem Vereinsrat angehören. Eine Wiederwahl für die nächste
-Geschäftsperiode ist unzulassig.  
+Geschäftsperiode ist unzulässig.  
 Zwei Rechnungsprüfer prüfen die Wirtschaftsführung des Vereins, die
 Abteilungen und Ausschüsse.  
 Die Rechnungsprüfer teilen das Prüfungsergebnis der Delegiertenversammlung
 mit. Wesentliche Mängel haben die Rechnungsprüfer unverzüglich dem
 Vorstand mitzuteilen, sie können in schwerwiegenden Fallen eine ausserordentliehe Delegiertenversammlung beantragen.
 
+### § 29 Schiedsgericht
+Das Schiedsgericht besteht aus dem Obmann und zwei Beisitzern. Die
+Delegiertenversarnmlung wählt jährlich einen Obmann auf drei Jahre, wobei dieser im zweiten und dritten Jahr seiner Amtszeit als Ersatzmann fungiert.
+Wiederwahlen sind zulassig. Obleute dürfen nicht dem Vereinsrat angehören. Je ein Beisitzer des Schiedsgerichts wird im Einzelfall von den Parteien benannt.
+
+Das Schiedsgericht entscheidet auf Anruf endgültig und bindend über
+Streitigkeiten zwischen Mitgliedern, deren Schlichtung im Vereinsinteresse geboten ist. Es entscheidet ferner über Widersprüche gegen Kündigungen nach § 10 Absatz 2 Satz 2.
+
+Das Schiedsverfahren ist mit einem schriftlich begründeten Antrag einzuleiten. Der Obmann bestimmt das weitere Verfahren und erläutert es den Parteien. Er hat den Parteien Gehör zu gewähren und zunächst eine gütliche Einigung zu versuchen.
+
+### § 30 Haftung
+
+Ehrenamtlich Tätige haften für Schäden, die sie in Erfüllung ihrer ehrenamtlichen Tatigkeit verursachen, nur für Vorsatz und grobe Fahrlässigkeit.
+
+### § 31 Auflösung des Vereins
+
+Die Auflösung des Vereins, die Änderung seines Zwecks und die Änderung dieser Bestimmung (§ 20) können nur in zwei im Abstand von mindestens vier
+Wochen aufeinanderfolgenden Mitgliederversammlungen mit einer Mehrheit von
+jeweils sieben Achteln der abgegebenen Stimmen beschlossen werden. Löst
+sich der Verein auf, so ist sein Vermögen der Freien und Hansestadt Hamburg
+mit der Auflage zu übertragen, es für Zwecke der Leibesübungen zu verwenden.
+
+§ 17 Absatz 4 gilt entsprechend.
+
+---
+
+Dritter Teil:
+
+## WAHLORDNUNG (Stand 9/91)
+
+<b>§ 1</b> Die Wahl zur Delegiertenversammlung wird beaufsichtigt von
+einem Wahlausschuss, der aus drei Mitgliedern des Wahlausschusses gemäß § 27 der Satzung besteht.
+
+<b>§ 2</b> Die Abteilungen wählen auf einer Abteilungsversammlung oder
+durch Briefwahl ihre Delegierten. Die Geschäftsstelle erstellt auf
+Anforderung durch die Abteilungen vor der Wahl eine Wählerliste und benennt die Anzahl der zu wählenden Delegierten gemäß § 13 der Satzung.  
+Stichtag für die Wählerliste ist der 1.1. des Jahres.
+
+<b>§ 3</b> Abteilungsdelegierter kann nur ein Abteilungsmitglied sein, dessen Mitgliedschaft ungekündigt ist.  
+Vor der Wahl hat jeder Kandidat mündlich, bei Abwesenheit schriftlich, zu erklären, daß der im Falle einer Wahl diese an nimmt.
+
+<b>§ 4</b> Jedes Mitglied kann nur in der Abteilung einen Abteilungsdelegierten wählen, in deren Wählerliste es geführt wird.  
+Jedes Abteilungsmitglied kann so viele Stimmen abgeben, wie Delegierte aus der Abteilung zu wählen sind.
+
+<b>§ 5</b> Das Wahlergebnis ist innerhalb von zehn Werktagen dem
+Wahlausschuss bekanntzugeben. Der Wahlausschuss überprüft die Ordnungsgemaßheit der Wahl und informiert den Vorstand und die Geschäftsstelle.
+
+<b>§ 6</b> Einsprüche gegen das Wahlergebnis sind innerhalb einer
+Ausschlussfrist von drei Wochen an den Wahlausschuss zu richten. Über den Einspruch entscheidet der Wahlausschuss endgültig innerhalb eines Monats.
+
+<b>§ 7</b> Wird die Wahl eines Delegierten für ungültig erklärt, oder scheidet ein Delegierter vorzeitig aus seinem Amt aus, rückt der nächste Ersatzdelegierte aus der Abteilung nach.
