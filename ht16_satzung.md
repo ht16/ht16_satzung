@@ -89,7 +89,7 @@ Für außergewöhnliche Verdienste um den Verein kann der Vorstand die Ehrenmitg
 
 ### § 6 Rechte der Mitglieder
 
-Die Mitglieder sind berechtigt, die Einrichtungen des Vereins im Rahmen der Gemeinverträglichkleit und der Betriebsordnungen zu benutzen. Sie wirken bei der Bildung der Vereinsorgane mit. Sie besitzen nach Vollendung des 18. Lebensjahres - in Jugendangelegenheiten des 14. Lebensjahres - das aktive und passive Wahlrecht, das Stimm- und Vorschlagsrecht.
+Die Mitglieder sind berechtigt, die Einrichtungen des Vereins im Rahmen der Gemeinverträglichkeit und der Betriebsordnungen zu benutzen. Sie wirken bei der Bildung der Vereinsorgane mit. Sie besitzen nach Vollendung des 18. Lebensjahres - in Jugendangelegenheiten des 14. Lebensjahres - das aktive und passive Wahlrecht, das Stimm- und Vorschlagsrecht.
 
 ### § 7 Pflichtender Mitglieder
 
@@ -135,8 +135,8 @@ Alle stimmberechtigten Mitglieder des Vereins bilden die Mitgliederversammlung.
 
 Die Mitgliederversammlung beschließt über
 
-- die Änderung des Vereinszwecks  
-- die Auflösung des Vereins.  
+- die Änderung des Vereinszwecks
+- die Auflösung des Vereins.
 
 Die Mitgliederversammlung beschließt weiterhin über die von der Delegiertenversammlung überwiesenen Anträge, die in der Delegiertenversammlung auch im zweiten Durchgang nicht entschieden wurden.
 
@@ -148,12 +148,12 @@ Die Mitgliederversammlung muss in diesen Fällen binnen 3 Monaten durchgeführt 
 
 Die Delegiertenversammlung besteht aus
 
-- den Delegierten der Abteilungen  
-- den Delegierten der Personengemeinschaften  
-- dem Vorstand  
-- den Abteilungsleitern  
-- den Vorsitzenden der Personengemeinschaften  
-- den Rechnungsprüfern  
+- den Delegierten der Abteilungen
+- den Delegierten der Personengemeinschaften
+- dem Vorstand
+- den Abteilungsleitern
+- den Vorsitzenden der Personengemeinschaften
+- den Rechnungsprüfern
 - den Ehrenvorsitzenden
 - den Ehrenmitgliedern
 
@@ -215,18 +215,18 @@ Der Vereinsrat tritt dreimal im Jahr zusammen. Mindestens fünf seiner Mitgliede
 
 Dem Vorstand gehören an:
 
-a) Vorsitzender  
+a) Vorsitzender
 b) Ehrenvorsitzender (beratend)
 
 und weitere Vorstandsmitglieder für
 
-c) Finanzen  
-d) Verwaltung  
-e) Bauwesen  
+c) Finanzen
+d) Verwaltung
+e) Bauwesen
 f) Öffentlichkeitsarbeit
-g) Förderung des Ehrenamtes  
-h) Kommunikation und Informationstechnologie  
-i) Jugendwart  
+g) Förderung des Ehrenamtes
+h) Kommunikation und Informationstechnologie
+i) Jugendwart
 
 ### § 22 Wahl der Vorstandsmitglieder
 
