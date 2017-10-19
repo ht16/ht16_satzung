@@ -1,5 +1,7 @@
 # Satzung der Hamburger Turnerschaft von 1816 r.V.
 
+![Logo](logo2016_big.png)
+
 Stand: Oktober 2017
 
 ## Gliederung
