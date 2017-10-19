@@ -1,6 +1,6 @@
 # Satzung der Hamburger Turnerschaft von 1816 r.V.
 
-Stand: Juli 2014
+Stand: Oktober 2017
 
 ## Gliederung
 
@@ -62,11 +62,13 @@ Der Verein führt den Namen "Hamburger Turnerschaft von 1816". Er ist rechtsfäh
 
 ### § 2 Zweck des Vereins
 
-Der Verein pflegt die Leibesübungen.
+Der Zweck des Vereins ist die Förderung des Sports. Der Verein pflegt die Leibesübungen.
+
+Der Satzungszweck wird insbesondere verwirklicht durch die Förderung der sportlichen Übung und Leistung. Hierzu dienen die Vermittlung und Förderung des Sportunterrichts, von Sportbegegnungen, Werbung in den Medien, Einwerben von Fördergeldern und Spenden sowie durch Vorführungen. Der Verein ist Mitglied im Hamburger Sportbund e.V..
 
 ### § 3 Gemeinnützigkeit
 
-Der Verein ist gemeinnützig. Er dient seinem Zweck ausschließlich und unmittelbar. Seine Einnahmen dürfen nur für den satzungsgemäßen Zweck verwendet werden. Mitglieder dürfen keine Zuwendungen aus Mitteln des Vereins erhalten; sie haben keinen Anspruch auf das Vereinsvermögen. Niemand darf durch unangemessene Vergütungen oder zweckfremde Verwaltungsaufgaben begünstigt werden.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "steuerbegünstigte Zwecke" der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ### § 3a Umweltschutz
 
@@ -287,8 +289,7 @@ Ehrenamtlich Tätige haften für Schäden, die sie in Erfüllung ihrer ehrenamtl
 
 ### § 31 Auflösung des Vereins
 
-Die Auflösung des Vereins, die Änderung seines Zwecks und die Änderung dieser Bestimmung (§ 20) können nur in zwei im Abstand von mindestens vier Wochen aufeinanderfolgenden Mitgliederversammlungen mit einer Mehrheit von jeweils sieben Achteln der abgegebenen Stimmen beschlossen werden. Löst sich der Verein auf, so ist sein Vermögen der Freien und Hansestadt Hamburg
-mit der Auflage zu übertragen, es für Zwecke der Leibesübungen zu verwenden.
+Die Auflösung des Vereins, die Änderung seines Zwecks und die Änderung dieser Bestimmung können nur in zwei im Abstand von mindestens vier Wochen aufeinanderfolgenden Mitgliederversammlungen mit einer Mehrheit von jeweils sieben Achteln der abgegebenen Stimmen beschlossen werden. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vereinsvermögen an den Hamburger Sportbund e.V. der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 
 § 17 Absatz 4 gilt entsprechend.
 
