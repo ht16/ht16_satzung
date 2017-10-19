@@ -1,0 +1,1 @@
+Hier wird eine neue Satzung für die Hamburger Turnerschaft von 1816 r.V. entwickelt. Hierzu wurde von der Delegiertenversammlung am 09.03.2017 eine Satzungskommission gewählt, die hier ihre Arbeit zusammenführt.
