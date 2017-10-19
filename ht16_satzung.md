@@ -114,7 +114,7 @@ Der Verein haftet nicht für Sachen, die in den von ihm benutzten Anlagen abhand
 
 Eine Kündigung der Mitgliedschaft kann nur schriftlich mit einer Frist von 6 Wochen jeweils zum Quartalsende erklärt werden. Hiervon kann der Vorstand Ausnahmen zulassen.
 
-Eine Kündigung durch den Verein ist bei vereinsschadigendem Verhalten des
+Eine Kündigung durch den Verein ist bei vereinsschädigendem Verhalten des
 Mitglieds zulassig.  
 Gegen eine solche Kündigung kann das Mitglied binnen eines Monats nach Zugang der Kündigung das Schiedsgericht (§ 29) anrufen. Datüber hinaus kann der Verein die Mitgliedschaft bei Beitragstückständen von mehr als drei Monaten jederzeit ohne Einhaltung einer Frist kündigen.  
 Hiergegen ist eine Anrufung des Schiedsgerichts ausgeschlossen.
@@ -161,7 +161,7 @@ Die Delegiertenversammlung besteht aus
 
 Die Abteilungen wählen ihre Delegierten für die Dauer von drei Jahren. Wiederwahl ist zulässig. Näheres bestimmt die Wahlordnung.
 
-Für je angefangene 100 Mitglieder einer Abteilung oder angefangene 500 Mitglieder einer Personengemeinschaft ist ein Delegierter zu wählen. Zusätzlich werden ein Drittel Ersatzdelegierte oder mehr, mindestens jedoch ein Ersatzdelegierter gewählt, deren Rangfolge sich nach der Anzahl der abgegebenen Stimmen richtet.
+Für je angefangene 100 Mitglieder einer Abteilung oder angefangene 500 Mitglieder einer Personengemeinschaft ist ein Delegierter zu wählen. Zusätzlich werden ein Drittel Ersatzdelegierte oder mehr, mindestens jedoch ein Ersatzdelegierter, gewählt, deren Rangfolge sich nach der Anzahl der abgegebenen Stimmen richtet.
 
 Je Abteilung können höchstens 20 Delegierte gewählt werden.
 
