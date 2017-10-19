@@ -116,7 +116,7 @@ Eine Kündigung der Mitgliedschaft kann nur schriftlich mit einer Frist von 6 Wo
 
 Eine Kündigung durch den Verein ist bei vereinsschädigendem Verhalten des
 Mitglieds zulassig.  
-Gegen eine solche Kündigung kann das Mitglied binnen eines Monats nach Zugang der Kündigung das Schiedsgericht (§ 29) anrufen. Datüber hinaus kann der Verein die Mitgliedschaft bei Beitragstückständen von mehr als drei Monaten jederzeit ohne Einhaltung einer Frist kündigen.  
+Gegen eine solche Kündigung kann das Mitglied binnen eines Monats nach Zugang der Kündigung das Schiedsgericht (§ 29) anrufen. Darüber hinaus kann der Verein die Mitgliedschaft bei Beitragstückständen von mehr als drei Monaten jederzeit ohne Einhaltung einer Frist kündigen.  
 Hiergegen ist eine Anrufung des Schiedsgerichts ausgeschlossen.
 
 Der Verlust der Mitgliedschaft hat auch den Verlust sämtlicher Ämter zur Folge.
