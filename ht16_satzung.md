@@ -1,4 +1,6 @@
-# Satzung der Hamburger Turnerschaft von 1816 r.V.
+# Satzung
+
+![Logo](ht16logo_shadow.svg)
 
 Stand: Juli 2014
 
