@@ -2,7 +2,7 @@
 
 ![Logo](logo2016_big.png)
 
-Stand: Oktober 2017
+Stand: Arbeitsfassung der Satzungskommission
 
 ## Gliederung
 
@@ -60,7 +60,7 @@ Erster Teil :
 
 ### § 1 Name und Sitz des Vereins
 
-Der Verein führt den Namen "Hamburger Turnerschaft von 1816". Er ist rechtsfähig durch Verfügung der Hamburger Senatskommission für die Justizverwaltung vom 23. Dezember 1899. Sitz und Gerichtsstand befinden sich in Hamburg. Geschäftsjahr ist das Kalenderjahr.
+Der Verein führt den Namen "Hamburger Turnerschaft von 1816 r.V.". Er ist rechtsfähig durch Verfügung der Hamburger Senatskommission für die Justizverwaltung vom 23. Dezember 1899. Sitz und Gerichtsstand befinden sich in Hamburg. Geschäftsjahr ist das Kalenderjahr.
 
 ### § 2 Zweck des Vereins
 
