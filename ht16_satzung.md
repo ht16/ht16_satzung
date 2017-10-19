@@ -27,10 +27,10 @@ Verein und Mitgliedschaft
 Organisation des Vereins
 
 § 11 Gliederung und Verfahren  
-§ 12 Oie Mitgliederversammlung  
+§ 12 Die Mitgliederversammlung  
 § 13 Die Delegiertenversammlung  
 § 14 Ordentliche Delegiertenversammlung  
-§ 15 Ausserordentllche Delegiertenversammlung  
+§ 15 Außerordentllche Delegiertenversammlung  
 § 16 Anträge an die Delegiertenversammlung  
 § 17 Beschlüsse der Delegiertenversammlung  
 § 18 Zusammensetzung des Vereinsrates  
