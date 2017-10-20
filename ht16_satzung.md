@@ -177,7 +177,7 @@ Die Delegiertenversammlung wählt die Mitglieder des Vorstandes gemäß § 22 Ab
 
 ### § 14 Ordentliche Delegiertenversammlung
 
-Die Delegiertenveraammlung tritt jährlich im ersten Halbjahr zusammen, jedoch nicht vor dem vierten Monat. Der Vorstand beruft die Delegiertenversammlung mindestens 14 Tage vor dem Termin ein durch schriftliche Mitteilung der Tagesordnung an die Delegierten und durch Aushang in der Geschäftsstelle.
+Die Delegiertenversammlung tritt jährlich im ersten Halbjahr zusammen, jedoch nicht vor dem vierten Monat. Der Vorstand beruft die Delegiertenversammlung mindestens 14 Tage vor dem Termin ein durch schriftliche Mitteilung der Tagesordnung an die Delegierten und durch Aushang in der Geschäftsstelle.
 
 ### § 15 Ausserordentliche Delegiertenversammlung
 
@@ -311,7 +311,7 @@ Stichtag für die Wählerliste ist der 1.1. des Jahres.
 § 3  
 Abteilungsdelegierter kann nur ein Abteilungsmitglied sein, dessen Mitgliedschaft ungekündigt ist.  
 
-Vor der Wahl hat jeder Kandidat mündlich, bei Abwesenheit schriftlich, zu erklären, daß der im Falle einer Wahl diese annimmt.
+Vor der Wahl hat jeder Kandidat mündlich, bei Abwesenheit schriftlich, zu erklären, dass der im Falle einer Wahl diese annimmt.
 
 § 4  
 Jedes Mitglied kann nur in der Abteilung einen Abteilungsdelegierten wählen, in deren Wählerliste es geführt wird.  
@@ -319,11 +319,10 @@ Jedes Abteilungsmitglied kann so viele Stimmen abgeben, wie Delegierte aus der A
 
 § 5  
 Das Wahlergebnis ist innerhalb von zehn Werktagen dem
-Wahlausschuss bekanntzugeben. Der Wahlausschuss überprüft die Ordnungsgemaßheit der Wahl und informiert den Vorstand und die Geschäftsstelle.
+Wahlausschuss bekanntzugeben. Der Wahlausschuss überprüft die Ordnungsgemäßheit der Wahl und informiert den Vorstand und die Geschäftsstelle.
 
 § 6  
-Einsprüche gegen das Wahlergebnis sind innerhalb einer
-Ausschlussfrist von drei Wochen an den Wahlausschuss zu richten. Über den Einspruch entscheidet der Wahlausschuss endgültig innerhalb eines Monats.
+Einsprüche gegen das Wahlergebnis sind innerhalb einer Ausschlussfrist von drei Wochen an den Wahlausschuss zu richten. Über den Einspruch entscheidet der Wahlausschuss endgültig innerhalb eines Monats.
 
 § 7  
 Wird die Wahl eines Delegierten für ungültig erklärt, oder scheidet ein Delegierter vorzeitig aus seinem Amt aus, rückt der nächste Ersatzdelegierte aus der Abteilung nach.
